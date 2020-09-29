@@ -1,5 +1,5 @@
 var planilhaDestino = SpreadsheetApp.openByUrl("https://docs.google.com/spreadsheets/d/1zDhXytK7l15-CJV4p4X5uAFLok4ajIFtf-1htb6cxAQ/edit#gid=0");
-var token = "EAAeuwgLZBQfkBAMNbk5PKiflzKaVKrxBoJfWMg7apxnrn9bbZA5jhcK1b5uZCoPLmhvZBSbOajDBGSY0j19ZAzutfD1vIABianqHkfLksX9FpEQdRwALilHGrjHEKYmnZA8MzhAA3wM8AlDvbKcrPm7XMgbbZAvHfwZD";
+var token = "";
 
 function onOpen(e) {
   SpreadsheetApp.getUi()
